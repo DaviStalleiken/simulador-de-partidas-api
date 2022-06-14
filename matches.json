@@ -3,12 +3,12 @@
   "descricao": "Eliminatórias Copa 2022",
   "local": {
     "nome": "Maracanã",
-    "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
+    "imagem": "TODO"
    },
    "mandante": {
      "nome": "Brasil",
      "forca": 5,
-     "imagem": "TODO"
+     "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg"
    },
    "visitante": {
      "nome": "Argentina",
